@@ -38,12 +38,14 @@ clean_df1.to_csv('clean_aviation_data.csv', index=False)
 
 ## Visualizations
 
-![image](https://github.com/user-attachments/assets/e3c43839-95f3-492e-8f04-5d0033a0a286)
+![image](https://github.com/user-attachments/assets/04dc6e82-2ed2-4334-9bcd-0706a76ce0a5)
 
 
-![image](https://github.com/user-attachments/assets/3658f1bf-ddb9-4c02-b316-40cd5d5bc5ec)
+![image](https://github.com/user-attachments/assets/7e445e81-b121-419d-9347-3579b8517c64)
 
-![image](https://github.com/user-attachments/assets/f9709561-1a6a-4bf9-9120-901638eed053)
+
+![image](https://github.com/user-attachments/assets/31b749e9-0dcd-437d-9a08-4958743aef22)
+
 
 # Conclusion
 
@@ -58,9 +60,9 @@ Cessna aircrafts operated for private(personal) enterprises appeared to have low
 
 ## Summary of conclusions including three relevant findings
 
-1. The Unknown aircraft category has the highest frequency being of private enterprise. The high frequencies of Unknown is as a result of imputing missing values by use of placeholder 'Unknown', this is interpreted to mean that the imputed values(missing values) were significant the dataset originally. It is evident that, there more low risk airplanes(approximately 75%) are operated for private(personal) enterprises compared to those in business enterprise.
+1. Aircrafts for personal purpose has the highest frequency. This implies that low risk aircrafts are majorly operated for private enterprises than for business enterprises. 
  
-2. The interpretation of the above visual is that; those aircrafts with low risk are majorly operated for personal(private) enterprises.
+2. The interpretation of the above visual is that; those aircrafts with low risk are majorly operated for personal(private) enterprises. Cessna aircrafts has the highest frequency for personal purpose whereas Piper aircrafts have the highest frequency in business purpose.
 
 3. Cessna make appears to be of a lowest risk aircraft. This can be extracted to show which purpose (business or personal) has the lowest risk.
 
